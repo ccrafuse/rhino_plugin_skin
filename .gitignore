@@ -1,0 +1,103 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Python Ignores
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Mac OSX
+.DS_Store
+
+
+# Visual Studio
+*.tlog
+*.vcxproj
+*.exp
+*.lastbuildstate
+*.pdb
+*.cache
+.vs/
+*.sln
+
+# Build Binaries
+Application/Projects/ML3DBolusAlgorithms/GoogleTest/tmp/
+Application/Projects/ML3DBolusAlgorithms/Sources/tmp/
+Application/Projects/MLBrachyTrajectoryGenerator/Sources/tmp/
+Application/Projects/MLHeightfieldToWEM/Sources/tmp/
+Application/Projects/MLProcessAllPagesWithProgress/Sources/tmp/
+Application/Projects/MLWEMHit/Sources/tmp/
+Application/Projects/RTStructSequenceGenerator/Sources/tmp/
+Application/Projects/So3DBolusPlaneDragger/Sources/tmp/
+Application/Projects/So3DMarkerOffsetEditor/Sources/tmp/
+Application/Projects/SoClearError/Sources/tmp/
+Application/Projects/SoView2D3DBSlider/Sources/tmp/
+Application/Projects/SoWEMFlatShadingRenderer/Sources/tmp/
