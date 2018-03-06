@@ -86,7 +86,7 @@ fabric.properties
 *.pdb
 *.cache
 .vs/
-*.sln
+
 
 # Build Binaries
 Application/Projects/ML3DBolusAlgorithms/GoogleTest/tmp/
