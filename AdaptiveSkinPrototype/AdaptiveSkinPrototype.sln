@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdaptiveSkinPrototype", "AdaptiveSkinPrototype\AdaptiveSkinPrototype.vcxproj", "{708038E3-A3A9-4154-89C9-8F73ABAC7861}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdaptivePlugInPrototype", "AdaptivePlugInPrototype\AdaptivePlugInPrototype.vcxproj", "{BA8C6A70-5063-48C1-A2A0-54972DD77E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708038E3-A3A9-4154-89C9-8F73ABAC7861}.Debug|x64.ActiveCfg = Debug|x64
+		{708038E3-A3A9-4154-89C9-8F73ABAC7861}.Debug|x64.Build.0 = Debug|x64
+		{708038E3-A3A9-4154-89C9-8F73ABAC7861}.Release|x64.ActiveCfg = Release|x64
+		{708038E3-A3A9-4154-89C9-8F73ABAC7861}.Release|x64.Build.0 = Release|x64
+		{BA8C6A70-5063-48C1-A2A0-54972DD77E35}.Debug|x64.ActiveCfg = Debug|x64
+		{BA8C6A70-5063-48C1-A2A0-54972DD77E35}.Debug|x64.Build.0 = Debug|x64
+		{BA8C6A70-5063-48C1-A2A0-54972DD77E35}.Release|x64.ActiveCfg = Release|x64
+		{BA8C6A70-5063-48C1-A2A0-54972DD77E35}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D746CF51-57FE-4C43-A39D-D9B70B544091}
+	EndGlobalSection
+EndGlobal
